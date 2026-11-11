@@ -26,6 +26,7 @@ My main focus is **Backend Development**, especially building RESTful APIs, work
 <a href="https://www.java.com/">
 <img src="https://skillicons.dev/icons?i=java" width="50"/>
 </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
 </a>
@@ -37,6 +38,7 @@ My main focus is **Backend Development**, especially building RESTful APIs, work
 <a href="https://nodejs.org/">
 <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
 </a>
+
 <a href="https://expressjs.com/">
 <img src="https://skillicons.dev/icons?i=express" width="50"/>
 </a>
@@ -50,9 +52,11 @@ My main focus is **Backend Development**, especially building RESTful APIs, work
 <a href="https://www.mongodb.com/">
 <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
 </a>
+
 <a href="https://www.sqlite.org/">
 <img src="https://skillicons.dev/icons?i=sqlite" width="50"/>
 </a>
+
 <a href="https://www.postgresql.org/">
 <img src="https://skillicons.dev/icons?i=postgres" width="50"/>
 </a>
@@ -66,7 +70,7 @@ My main focus is **Backend Development**, especially building RESTful APIs, work
 </a>
 </p>
 
-Stripe SDK
+**Stripe SDK**
 
 ### 🔧 Tools & IDEs
 
@@ -74,12 +78,15 @@ Stripe SDK
 <a href="https://git-scm.com/">
 <img src="https://skillicons.dev/icons?i=git" width="50"/>
 </a>
+
 <a href="https://github.com/">
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
+
 <a href="https://code.visualstudio.com/">
 <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
 </a>
+
 <a href="https://developer.android.com/studio">
 <img src="https://skillicons.dev/icons?i=androidstudio" width="50"/>
 </a>
@@ -91,7 +98,7 @@ Stripe SDK
 
 ## 💼 Work Experience
 
-### EZHost – Host Management Platform
+### 🏠 EZHost – Host Management Platform
 
 **August 2026 – November 2026**
 
@@ -108,7 +115,7 @@ Stripe SDK
 
 ## 🚀 Featured Project
 
-### Fashion Store – AI-Powered E-commerce Platform
+### 👕 Fashion Store – AI-Powered E-commerce Platform
 
 **April 2026 – June 2026**
 
@@ -122,7 +129,8 @@ Stripe SDK
 - Developed a hybrid recommendation system using LightFM and Vector Embeddings for personalized product recommendations.
 - Integrated Stripe payment services and optimized data flow between backend services.
 
-🔗 **Repository:** [Fashion Store](https://github.com/MinhPhatKZO/Fashion_store)
+🔗 **Repository:**  
+https://github.com/MinhPhatKZO/Fashion_store
 
 ---
 
@@ -146,22 +154,27 @@ Stripe SDK
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MinhPhatKZO&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhatKZO&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-stats-extended.vercel.app/api?username=MinhPhatKZO&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MinhPhatKZO&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 </p>
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
 <p align="left">
+
 <a href="https://github.com/MinhPhatKZO">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/minh-phát-4b5212350">
+<a href="https://www.linkedin.com/in/minh-ph%C3%A1t-4b5212350">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
+
 </p>
 
 📧 **Email:** nguyenminhphat.dev@gmail.com
