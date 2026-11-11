@@ -3,18 +3,24 @@
 ### Back-end Developer
 
 🎓 Information Technology Student at Vietnam Aviation Academy  
-💻 Interested in Backend Development and building practical applications  
+💻 Focused on Backend Development and building practical applications  
 📍 Ho Chi Minh City, Vietnam
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering student aiming to become a skilled software engineer.
+I'm an Information Technology student at Vietnam Aviation Academy, aiming to become a skilled software engineer.
 
 I enjoy building practical, real-world applications and continuously improving my technical abilities while learning new technologies.
 
-My main focus is **Backend Development**, especially building RESTful APIs, working with databases, authentication, and integrating external services.
+My main focus is **Backend Development**, especially:
+
+- RESTful API development
+- Backend application development
+- Database management
+- Authentication & Authorization
+- API and payment integration
 
 ---
 
@@ -32,7 +38,9 @@ My main focus is **Backend Development**, especially building RESTful APIs, work
 </a>
 </p>
 
-### ⚙️ Backend
+---
+
+### ⚙️ Backend & Frameworks
 
 <p align="left">
 <a href="https://nodejs.org/">
@@ -45,6 +53,8 @@ My main focus is **Backend Development**, especially building RESTful APIs, work
 </p>
 
 **Backend:** RESTful API · JWT Authentication
+
+---
 
 ### 🗄️ Databases
 
@@ -62,6 +72,8 @@ My main focus is **Backend Development**, especially building RESTful APIs, work
 </a>
 </p>
 
+---
+
 ### 💳 Payment & APIs
 
 <p align="left">
@@ -71,6 +83,8 @@ My main focus is **Backend Development**, especially building RESTful APIs, work
 </p>
 
 **Stripe SDK**
+
+---
 
 ### 🔧 Tools & IDEs
 
@@ -104,6 +118,8 @@ My main focus is **Backend Development**, especially building RESTful APIs, work
 
 `React Native` · `Expo` · `NestJS` · `TypeScript` · `PostgreSQL` · `Prisma`
 
+> 🔒 **Private Company Project — Source code is not publicly available.**
+
 - Developed basic Backend APIs for Building, Room, Tenant and Contract management.
 - Implemented authentication and role-based access.
 - Developed and integrated React Native screens with backend APIs.
@@ -122,7 +138,11 @@ My main focus is **Backend Development**, especially building RESTful APIs, work
 **Team:** 3  
 **Role:** Backend Developer
 
-`React (TypeScript)` · `Flutter` · `Node.js` · `Express` · `FastAPI` · `MongoDB` · `LightFM` · `Stripe`
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,flutter,nodejs,express,fastapi,mongodb" />
+</p>
+
+**Tech Stack:** React (TypeScript) · Flutter · Node.js · Express · FastAPI · MongoDB · LightFM · Stripe
 
 - Developed RESTful APIs for Product, Order, and Authentication services using Node.js and Express.
 - Designed and implemented a microservices architecture and integrated AI services via FastAPI.
